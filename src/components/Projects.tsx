@@ -32,7 +32,7 @@ const Projects = () => {
       description: 'A workflow automation tool with pipelines and nodes for data management',
       image: '/vector-shift-pro.png',
       technologies: ['React', 'Python', 'FastAPI'],
-      github: 'https://github.com/Haripriyaveluru/Vector-Shift-Pro',
+      github: 'https://github.com/Haripriyaveluru/vector-shift',
       
     },
     {

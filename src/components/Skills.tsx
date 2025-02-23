@@ -11,12 +11,12 @@ const skills = [
   {
     category: 'Backend Development',
     icon: Server,
-    skills: ['Node.js', 'Express', 'Django', 'REST APIs', 'PostgreSQL'],
+    skills: ['Node.js', 'Express', 'Django', 'REST APIs', 'PostgreSQL','Clerk Autherization' ],
   },
   {
     category: 'Database',
     icon: Database,
-    skills: [ 'MongoDB', 'Firebase','NeonDB'],
+    skills: [ 'MongoDB', 'Firebase Firestore','NeonDB'],
   },
   {
     category: 'DevOps',
@@ -34,7 +34,7 @@ const skills = [
     skills: [
       'AWS Cloud Computing (IaaS)', 
       'ServiceNow (PaaS)', 
-      'SAP ABAP (SaaS)'
+      
     ],
   },
 ];
