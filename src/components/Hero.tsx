@@ -45,7 +45,7 @@ const Hero = () => {
             </div>
             <div className="flex flex-wrap gap-4 animate-slide-up delay-400">
               <a
-                href="/V R Haripriya Web Developer Resume.pdf"
+                href="/Haripriya_webdev_resume.pdf"
                 download
                 className="inline-flex items-center px-6 py-3 bg-white text-blue-600 rounded-lg hover:bg-blue-50 transform hover:translate-y-[-2px] transition-all duration-300"
               >
